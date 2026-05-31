@@ -6,7 +6,7 @@ export default function Home() {
       <main className="w-full max-w-4xl px-8 py-16 md:py-24 bg-white dark:bg-black shadow-sm">
         {/* Header */}
         <header className="mb-12">
-          
+
           <h1 className="text-4xl font-bold tracking-tight mb-2">Terms & Conditions</h1>
           <p className="text-zinc-500">Please read these terms carefully before using our services.</p>
         </header>
@@ -20,7 +20,7 @@ export default function Home() {
 
           <p>
             <strong className="block text-xl text-zinc-950 dark:text-zinc-50 mb-2">2 . Eligibility</strong>
-            To access or use the Platform, the Customer must be at least 18 years of age and legally capable of entering into a binding contract under the Indian Contract Act, 1872. By registering on or using the App, the Customer represents and warrants that all information provided is true, accurate, and complete, and that the Customer is using the Platform for personal and lawful purposes only. The Company reserves the right to suspend or terminate access to the Platform if a Customer is found to be ineligible, provides false information, or violates these Terms & Conditions or any applicable laws.
+            To access or use the Platform, the Customer must be at least 13 years of age and possess the legal capacity to enter into a binding agreement in accordance with all applicable laws and regulations. By registering on or using the App, the Customer represents and warrants that all information provided is true, accurate, and complete, and that the Customer is using the Platform for personal and lawful purposes only. The Company reserves the right to suspend or terminate access to the Platform if a Customer is found to be ineligible, provides false or misleading information, or violates these Terms & Conditions or any applicable laws, regulations, or legal requirements.
           </p>
 
           <p>
@@ -66,7 +66,7 @@ export default function Home() {
 
         <footer className="mt-20 pt-8 border-t border-zinc-200 dark:border-zinc-800 text-center">
           <p className="text-sm text-zinc-500">
-            © {new Date().getFullYear()} Your Company Name. All rights reserved.
+            © {new Date().getFullYear()} Leevon Delivery. All rights reserved.
           </p>
         </footer>
       </main>
